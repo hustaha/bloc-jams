@@ -5,6 +5,12 @@ body.collection {
      background-position: center center;
      background-size: cover;
  }
+
+body {
+   background-color: black !
+        important;
+    
+}
  
  .album-covers {
      position: relative;
